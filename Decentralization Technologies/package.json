@@ -1,0 +1,19 @@
+{
+  "name": "gameoflife",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "blank"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goryface/GameofLife-Amine-3.git"
+  },
+  "author": "goryface",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goryface/GameofLife-Amine-3/issues"
+  },
+  "homepage": "https://github.com/goryface/GameofLife-Amine-3#readme"
+}
